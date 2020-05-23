@@ -178,10 +178,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;38mPLEASE WAIT"
-            os.system('xdg-open https://www.facebook.com/BIJOY52.OFFICIAL.BD/')
+            os.system('xdg-open https://m.facebook.com/BIJOY52.OFFICIAL.BD/')
     else:
         print "\033[1;31mACCESS DENIED"
-        os.system('xdg-open https://www.facebook.com/SeNiOr.AdMiN.149')
+        os.system('xdg-open https://m.facebook.com/SeNiOr.AdMiN.149')
 
 def login():
 	os.system('clear')
@@ -272,14 +272,14 @@ def menu():
 		keluar()
 	os.system("clear") #Dev:TECH-ABM
 	print logo
-	print "  \033[1;32m🇧🇩\033[1;96mYOUR User Info\033[1;32m✔️"
+	print "  \033[1;32m✔️\033[1;96mYOUR User Info\033[1;32m✔️"
 	print "	   \033[1;97m Name\033[1;97m:\033[1;94m"+nama+"\033[1;97m               "
 	print "	   \033[1;97m ID\033[1;97m:\033[1;94m"+id+"\x1b[1;97m              "
 	print "\033[1;93mBIJOY52 HACKER ™"
 	
 	print "\033[0;33m⚚═╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌═⚚"
 
-	print "\033[1;38m≫ \033[1;34m1.\x1b[1;94mStart Cloning ✪"
+	print "\033[1;38m≫ \033[1;34m1.\x1b[1;94mSTART HACKING BABY ▄︻̷̿┻̿═━一"
 	print "\033[1;38m≫ \033[1;32m0.\033[1;96mLogout            "
 	pilih()
 
