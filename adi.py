@@ -87,7 +87,7 @@ logo ="""
 \033[0;33m⚚═╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌═⚚
 \033[1;93m DO NOT USE FOR PERSONAL PROBLEMS  ✔️
 \033[1;39m I AM NOT RESPONSIBLE FOR YOU ✔️
-\033[1;93m ONlY USE IT ON EDUCATION PORPOISE ✔️
+\033[1;93m ONlY USE IT ON EDUCATION PURPOSE ✔️
 \033[1;92m CHECKPPINT ACCOUNT OPEN AFTER 7 DAYS ✔️
 \033[1;93m LIKE MY PAGE ✔️
 \033[0;33m⚚═╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌═⚚
