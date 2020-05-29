@@ -74,12 +74,12 @@ logo ="""
 \033[1;33m██████╦╝██║░░██║╚█████╗░╚█████╗░
 \033[1;33m██╔══██╗██║░░██║░╚═══██╗░╚═══██╗
 \033[1;33m██████╦╝╚█████╔╝██████╔╝██████╔╝
-\033[1;33m╚═════╝░░╚════╝░╚═════╝░╚═════╝░
+\033[1;33m╚═════╝░░╚════╝░╚═════╝░╚═════╝░ v2.0
 
 \033[1;95m╔═━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⌗⊰
 \033[1;92m║\033[1;93mAUTHOR ⊱⟡⊰ \033[1;92mADI ZAMAN         
 \033[1;92m║\033[1;93mCREATE BY ⊱⟡⊰ \033[1;92mADI BOSS  
-\033[1;92m║\033[1;93mFACEBOOK ⊱⟡⊰ \033[1;92mhttps://www.facebook.com/SeNiOr.AdMiN.149           
+\033[1;92m║\033[1;93mFACEBOOK ⊱⟡⊰ \033[1;92mhttps://www.facebook.com/MONSTAR.HACKER           
 \033[1;95m╚═━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⌗⊰                        
 
 
@@ -145,17 +145,7 @@ jalan('\033[1;97m█████████████▒▒')
 print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
 jalan('\033[1;97m██████████████▒') 
 print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
-jalan('\033[1;97m████████████████') 
-print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
-jalan('\033[1;97m█████████████████') 
-print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
-jalan('\033[1;97m██████████████████') 
-print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
-jalan('\033[1;97m███████████████████') 
-print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
-jalan('\033[1;97m████████████████████') 
-print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
-jalan('\033[1;97m█████████████████████') 
+
 print"\033[1;32m✖⊱⊶⊶⊶⊶⊶⊶⊶⊶⊶⊰✖"
 jalan('\033[1;31m COMPLETING•••')
 jalan('\033[1;31m⋕⋕ ADI ZAMAN ⋕⋕') 
@@ -178,10 +168,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;38mPLEASE WAIT"
-            os.system('xdg-open https://m.facebook.com/BIJOY52.OFFICIAL.BD/')
+            os.system('xdg-open https://m.me/MONSTAR.HACKER')
     else:
         print "\033[1;31mACCESS DENIED"
-        os.system('xdg-open https://m.facebook.com/SeNiOr.AdMiN.149')
+        os.system('xdg-open https://m.me/MONSTAR.HACKER')
 
 def login():
 	os.system('clear')
@@ -592,7 +582,7 @@ def pilih_super():
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
 \033[0;94mThank for using my tool 
-To learn ethical hacking stay connected with my page
+To learn ethical hacking contact with me
  """
 	
 	raw_input("\n\033[1;93m[\033[1;96mBack\033[1;93m]")
